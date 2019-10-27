@@ -1,0 +1,98 @@
+h1 {
+    text-align: center;
+    color: aqua;
+    border: crimson;
+    font-size: 122px;
+    background-color: azure;
+}
+
+h2 {
+    position: absolute;
+    left: 30px;
+    top: 30px;
+    text-align: center;
+    color: aqua;
+    border: crimson;
+    font-size: 50px;
+    background-color: azure;
+}
+
+h3 {
+    position: relative;
+    text-align: center;
+    color: aqua;
+    border: crimson;
+    font-size: 30px;
+    background-color: azure;
+}
+h4 {
+    text-align: center;
+    color: aqua;
+    border: crimson;
+    font-size: 20px;
+    background-color: azure;
+}
+form {
+    text-align: center;
+    margin: 100px;
+}
+
+input {
+    width: 300px;
+    height: 30px;
+    margin-top: 10px;
+}
+
+button {
+    width: 300px;
+    height: 50px;
+    border-radius: 5px;
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: plum;
+    background-color: aqua;
+}
+
+.button1 {
+    background-color: crimson;
+}
+
+.button2 {
+    background-color: blue;
+}
+
+.example{
+    position: center;
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 30px;
+    background-color: bisque;
+    width: 500px;
+    height: 500px;
+}
+
+.my-flex-container{
+
+    background-color: bisque;
+    height: 1000px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: baseline;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+.my-flex-block5{
+      margin: auto;
+      margin-top: 15px;
+      margin-left: 150px;
+      padding-top: 40px;
+      text-align: center;
+      width: 150px;
+      height: 150px;
+      background-color: crimson;
+  }
+
+
